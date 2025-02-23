@@ -1,0 +1,13 @@
+{
+  "FamilyTreeInfraStack": {
+    "UserPoolClientId": "394g391qqdsi584p8c3cnt8m0i",
+    "EnvVariables": "\n      REACT_APP_USER_POOL_ID=us-east-1_JqReDkDuz\n      REACT_APP_USER_POOL_CLIENT_ID=394g391qqdsi584p8c3cnt8m0i\n      REACT_APP_API_URL=https://i01eao3rya.execute-api.us-east-1.amazonaws.com/prod/\n      REACT_APP_CLOUDFRONT_URL=d15m8gjz5sacab.cloudfront.net\n      REACT_APP_REGION=us-east-1\n      REACT_APP_COGNITO_DOMAIN=us-east-1_JqReDkDuz.auth.us-east-1.amazoncognito.com\n      REACT_APP_COGNITO_DOMAIN_NAME=family-tree-202533501395\n      ",
+    "UserPoolId": "us-east-1_JqReDkDuz",
+    "ApiUrl": "https://i01eao3rya.execute-api.us-east-1.amazonaws.com/prod/",
+    "CloudFrontUrl": "d15m8gjz5sacab.cloudfront.net",
+    "Region": "us-east-1",
+    "CognitoDomainName": "family-tree-202533501395",
+    "FamilyTreeApiEndpoint8A3DB2C5": "https://i01eao3rya.execute-api.us-east-1.amazonaws.com/prod/",
+    "CognitoDomain": "us-east-1_JqReDkDuz.auth.us-east-1.amazoncognito.com"
+  }
+}
